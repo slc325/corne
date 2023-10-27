@@ -65,10 +65,10 @@
 
             label = "Raise";
             bindings = <
-&kp TAB    &kp KP_N1        &kp KP_NUMBER_2  &kp KP_N3  &kp KP_N4       &kp KP_N5          &kp KP_N6         &kp KP_N7          &kp KP_N8          &kp KP_N9             &kp KP_NUMBER_0        &kp BSPC
-&kp LCTRL  &kp EXCLAMATION  &kp AT_SIGN      &kp HASH   &kp DOLLAR      &kp PERCENT        &kp CARET         &kp AMPERSAND      &kp ASTERISK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE
-&kp LSHFT  &kp TILDE        &kp HOME         &kp END    &kp LEFT_BRACE  &kp RIGHT_BRACE    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE      &kp PIPE               &kp TILDE
-                                             &kp LGUI   &trans          &kp SPACE          &kp RET           &trans             &kp RALT
+&kp TAB    &kp N1           &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4    &kp NUMBER_5       &kp NUMBER_6      &kp NUMBER_7       &kp NUMBER_8       &kp NUMBER_9          &kp NUMBER_0           &kp BSPC
+&kp LCTRL  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH      &kp DOLLAR      &kp PERCENT        &kp CARET         &kp AMPERSAND      &kp ASTERISK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE
+&kp LSHFT  &kp TILDE        &kp HOME      &kp END       &kp LEFT_BRACE  &kp RIGHT_BRACE    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE      &kp PIPE               &kp TILDE
+                                          &kp LGUI      &trans          &kp SPACE          &kp RET           &trans             &kp RALT
             >;
         };
     };
