@@ -49,10 +49,10 @@
 
             label = "Lower";
             bindings = <
-&kp TAB     &kp COLON  &kp UNDER     &kp BACKSLASH     &kp QUESTION  &kp PLUS        &trans    &trans    &trans    &trans     &kp BACKSPACE  &kp BSPC
-&bt BT_CLR  &kp TAB    &kp KP_MINUS  &kp GREATER_THAN  &kp SLASH     &kp KP_EQUAL    &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT  &kp ESC        &trans
-&kp LSHFT   &kp F1     &trans        &kp LEFT_GUI      &bt BT_CLR    &bt BT_NXT      &trans    &trans    &trans    &trans     &kp CAPSLOCK   &trans
-                                     &trans            &trans        &bootloader     &kp RET   &trans    &kp RALT
+&kp TAB     &kp COLON  &kp UNDER     &kp BACKSLASH     &kp QUESTION  &kp PLUS       &trans    &trans    &trans    &trans     &kp BACKSPACE  &kp BSPC
+&bt BT_CLR  &kp TAB    &kp KP_MINUS  &kp GREATER_THAN  &kp SLASH     &kp EQUAL      &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT  &kp ESC        &trans
+&kp LSHFT   &kp F1     &trans        &kp LEFT_GUI      &bt BT_CLR    &bt BT_NXT     &trans    &trans    &trans    &trans     &kp CAPSLOCK   &trans
+                                     &trans            &trans        &bootloader    &kp RET   &trans    &kp RALT
             >;
         };
 
