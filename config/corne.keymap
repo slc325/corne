@@ -52,10 +52,10 @@
 
             label = "Base";
             bindings = <
-&kp TAB    &kp Q  &kp W  &kp E           &kp R             &kp T           &kp Y        &kp U           &kp I      &kp O    &kp P     &kp BSPC
-&kp LCTRL  &kp A  &kp S  &kp D           &kp F             &kp G           &kp H        &kp J           &kp K      &kp L    &kp SEMI  &kp SQT
-&kp LSHFT  &kp Z  &kp X  &kp C           &kp V             &kp B           &kp N        &kp M           &kp COMMA  &kp DOT  &kp FSLH  &kp ESC
-                         &kp LEFT_SHIFT  &ht LCTRL ESCAPE  &htl 2 ENTER    &lt 1 SPACE  &ht RSHIFT TAB  &kp TAB
+&kp TAB    &kp Q  &kp W  &kp E           &kp R             &kp T           &kp Y        &kp U       &kp I      &kp O    &kp P     &kp BSPC
+&kp LCTRL  &kp A  &kp S  &kp D           &kp F             &kp G           &kp H        &kp J       &kp K      &kp L    &kp SEMI  &kp SQT
+&kp LSHFT  &kp Z  &kp X  &kp C           &kp V             &kp B           &kp N        &kp M       &kp COMMA  &kp DOT  &kp FSLH  &kp ESC
+                         &kp LEFT_SHIFT  &kp LEFT_CONTROL  &htl 2 ENTER    &lt 1 SPACE  &kp RSHIFT  &kp TAB
             >;
         };
 
@@ -87,7 +87,7 @@
 &kp TAB    &kp N1           &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4    &kp NUMBER_5       &kp NUMBER_6      &kp NUMBER_7       &kp NUMBER_8  &kp NUMBER_9          &kp NUMBER_0           &kp BSPC
 &kp LCTRL  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH      &kp DOLLAR      &kp PERCENT        &kp CARET         &kp AMPERSAND      &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE
 &kp LSHFT  &kp LEFT_ALT     &kp LEFT_GUI  &kp F1        &kp LEFT_BRACE  &kp RIGHT_BRACE    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp SQT       &kp DOUBLE_QUOTES     &kp PIPE               &kp TILDE
-                                          &trans        &trans          &kp SPACE          &kp RET           &trans             &kp RALT
+                                          &trans        &trans          &kp SPACE          &kp RET           &trans             &trans
             >;
         };
 
